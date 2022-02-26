@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at **jharlan628@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
