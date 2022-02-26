@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [a job application tracking app!](https://github.com/OJAH88/jobs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/OJAH88?tab=repositories](https://github.com/OJAH88?tab=repositories)
+- 👨‍💻 All of my projects are available [right here!](https://github.com/OJAH88?tab=repositories)
 
 - 💬 I'd love to talk about **ReactJS, Ruby on Rails, Javascript, NodeJS, and Database Management**
 
