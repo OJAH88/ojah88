@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OJAH88?tab=repositories](https://github.com/OJAH88?tab=repositories)
 
-- 💬 Ask me about **ReactJS, Ruby on Rails, Javascript, NodeJS, and Database Management**
+- 💬 I'd love to talk about **ReactJS, Ruby on Rails, Javascript, NodeJS, and Database Management**
 
-- 📫 How to reach me **jharlan628@gmail.com**
+- 📫 You can reach me at **jharlan628@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
